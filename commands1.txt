@@ -2,4 +2,8 @@ git init
 git add filename
 git commit -m "enter the message here!!"
 git remote -v
-git set-url origin 
+git set-url origin
+git clone 
+git pull
+git push 
+git fetch 
