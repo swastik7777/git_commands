@@ -7,3 +7,5 @@ git clone
 git pull
 git push 
 git fetch 
+git remote -v
+git remote set-url --add
